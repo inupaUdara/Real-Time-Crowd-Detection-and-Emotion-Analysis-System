@@ -1,4 +1,3 @@
-# main.py
 from detector import EnhancedCrowdDetector
 
 def main():

@@ -1,4 +1,3 @@
-# emotion_module.py
 import cv2
 import threading
 import queue
